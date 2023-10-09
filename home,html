@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rex Regum Qeon</title>
+  <link rel="icon" type="image/x-icon" href="https://teamrrq.com/images/king-of-king/rr-logo@2x.png">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+  <img class="gambar" src="https://teamrrq.com/images/king-of-king/rr-logo@2x.png" alt="rrq" height="80px">
+  <div class="socialmedia">
+    <li><a href=""><ion-icon name="logo-instagram"></ion-icon></a></li>
+    <li><a href=""><ion-icon name="logo-youtube"></ion-icon></a></li>
+    <li><a href=""><ion-icon name="logo-facebook"></ion-icon></a></li>
+    <li><a href=""><ion-icon name="logo-twitter"></ion-icon></a></li>
+    <li><a href=""><ion-icon name="logo-tiktok"></ion-icon></a></li>
+    <li><a class="member" href="">LOGIN MEMBERSHIP</a></li>
+  </div>  
+  <br>
+  <br>
+  <div class="divisions">
+    <ul class="menu">
+      <li class="dropdown">
+        <a href="#"" class="dropbtn">DIVISIONS</a>
+        <div class="dropdown-content">
+          <a href="#">MOBILE LEGENDS: BANG BANG</a>
+          <a href="#">PUBG MOBILE</a>
+          <a href="#">Free Fire</a>
+          <a href="#">VALORANT</a>
+          <a href="#">BRAND AMBASSADOR</a>
+        </div>
+      <li><a href="">MATCH</a></li>
+      <li class="dropdown">
+        <a href="#"" class="dropbtn">NEWS</a>
+        <div class="dropdown-content">
+          <a href="#">NEWS</a>
+          <a href="#">VIDEOS</a>
+          <a href="#">GALLERY</a>
+      <li class="dropdown">
+        <a href="#"" class="dropbtn">EVENT & COMMUNITY</a>
+        <div class="dropdown-content">
+          <a href="#">ABOUT</a>
+          <a href="#">PARTNER</a>
+          <a href="#">CONTACT</a>
+      <li><a href="">CAREER</a></li>
+      <li class="dropdown">
+        <a href="#"" class="dropbtn">COMPANY</a>
+        <div class="dropdown-content">
+          <a href="#">ABOUT</a>
+          <a href="#">PARTNER</a>
+          <a href="#">CONTACT</a>
+      <li><a href="">CAREER</a></li>
+    </ul>
+    <hr>
+  </div>
+  <h1 id="box">MENANG 4-0 ATAS BIGETRON SONS, RRQ AKIRA JADI TIM PERTAMA PERAIH BACK-TO-BACK LIGA LATAM</h1>
+  <img class="gambar1" src="https://teamrrq.com/assets/news/banner/news_images651a930a14101_WEB-ARTIKEL%20%282%29.jpg" alt="info" height="450px">
+  <div id="box1">
+    <p>Divisi RRQ yang berada di Brazil tidak henti-hentinya menorehkan prestasi di kancah turnamen MLBB lokal dan regional Amerika Latin. Setelah sebelumnya berhasil menjadi juara di MPL Brazil Season 5 sekaligus gelar juara mereka kelima berturut-turut, RRQ Akira kembali mengukir sejarah. RRQ Kiing dan kawan-kawan sukses menjadi juara Liga LATAM untuk yang kedua kalinya secara berurutan. </p>
+
+    <p>RQ Akira kembali menjadi tim unggulan pada turnamen Liga LATAM 2023. Betapa tidak, RRQ Luiiz dan kawan-kawan bertekad untuk kembali mendominasi scene MLBB di Amerika Latin, menjadi juara, dan lolos ke M5 World Championship yang akan digelar di Filipina.</p>
+  </div>
+  <img class="gambar2" src="https://i.ibb.co/0fQKjDg/383395396-17975895209595685-1106534939739949147-n.jpg" alt="info2">
+  <div id="box2">
+    <p>Bertitel sebagai juara MPL Brazil Season 5, RRQ Akira langsung berada di Upper Bracket Quarterfinals menghadapi tim asal Meksiko, Ignis Esports, di laga pertama. Bermain dalam pertandingan Best of 3 (Bo3), RRQ Gustalagusta CS langsung menunjukkan kelasnya. RRQ Akira pun sukses menang dengan skor 2-1. Atas kemenangan ini, RRQ Akira melangkah ke Upper Bracket Semifinals.</p>
+
+   <p>Di pertandingan ini, RRQ Akira bertemu dengan tim asal Peru, Real Stars Esports. Pada pertandingan ini, RRQ Seigen dan kawan-kawan kembali menunjukkan performa terbaiknya dengan menang telak 2-0. Di game pertama, RRQ Akira berhasil menang cepat pada menit ke-13, lalu dilanjutkan dengan kemenangan yang tak kalah cepat pada game kedua, yaitu di menit ke-12.</p>
+
+    <p>Terus melaju dengan kemenangan-kemenangan yang diraih, RRQ Akira bertemu dengan wakil asal Argentina, Imperio, di Upper Bracket Final. Pada  pertandingan yang digelar dengan sistem Best of 5 (Bo5), RRQ Tekashi dan kawan-kawan kembali tampil dominan sukses memenangkan laga dengan skor 3-1.</p>
+
+    <p>Kemenangan atas Imperio memastikan RRQ Akira meraih satu tiket ke babak Grand Final Liga LATAM 2023. Tak hanya itu, catatan tersebut juga menjadi penanda bahwa RRQ Luiiz dan kawan-kawan menjadi tim pertama yang akan tampil di turnamen MLBB tingkat dunia, M5 World Championship.</p>
+
+    <p>Pada pertandingan Grand Final yang digelar dengan sistem Best of 7 (Bo7), RRQ Akira bertemu dengan sesama tim Brazil yaitu Bigetron Sons. Bermain dengan gameplay agresif namun tetap mengedepankan objective gaming, RRQ Akira menang dengan skor yang sangat telak, 4-0.</p>
+  </div>
+  <img class="gambar3" src="https://i.ibb.co/h2nkcmK/385910107-17975895383595685-6646613325582720490-n.jpg" alt="info3" height>
+  <div id="box3">
+    <p>Kemenangan ini pun menjadi rekor tersendiri bagi RRQ Akira. Setelah mencetak rekor sebagai tim pertama yang menjadi juara MPL Brazil selama empat musim berturut-turut, kini RRQ Kiing dan kawan-kawan juga mencatatkan diri sebagai tim pertama yang meraih back-to back juara Liga LATAM.</p>
+
+    <p>Terima kasih untuk semua RRQ Kingdom yang sudah mendukung, menonton, dan mendoakan RRQ Akira. Sampai bertemu dengan RRQ Gustalagusta CS di turnamen dunia MLBB, M5 World Championship.</p>
+  </div>
+
+  <p class="box4">Viva RRQ!           </p>
+  <footer id="box5">
+    <img src="rr-logo@2x.png" alt="rrq" height="80px">
+    <ul class="f">
+      <li><b>REX REGUM QEON</b></li><br>
+      <li><a href="">About</a></li>
+      <li><a href="">News</a></li>
+      <li><a href="">Videos</a></li>
+      <li><a href="">Shop</a></li>
+      <li><a href="">Media Center </a></li>
+      <li><a href="">Partners</a></li>
+      <li><a href="">Brand Ambassador</a></li>
+      <li><a href="">Membership</a></li>
+      <li><a href="">RRQ Academy</a></li>
+      <li><a href="">Career</a></li>
+      <li><a href="">Contact</a></li>
+    </ul>
+    <ul class="f2">
+      <li><b>DIVISIONS</b></li><br>
+      <li><a href="">PUBG MOBILE</a></li>
+      <li><a href="">FREE FIRE</a></li>
+      <li><a href="">VALORANT</a></li>
+    </ul>
+    <ul class="f3">
+      <li><b>FOLLOW US</b></li><br>
+      <li><a href=""><ion-icon name="logo-instagram"></ion-icon></a></li>
+      <li><a href=""><ion-icon name="logo-youtube"></ion-icon></a></li>
+      <li><a href=""><ion-icon name="logo-facebook"></ion-icon></a></li>
+      <li><a href=""><ion-icon name="logo-twitter"></ion-icon></a></li>
+      <li><a href=""><ion-icon name="logo-tiktok"></ion-icon></a></li>
+    </ul>
+    <p class="close">© 2013 - 2023 MADE BY REX REGUM QEON TEAM</p>
+  </footer>
+</body>
+</html>
